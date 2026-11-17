@@ -37,3 +37,7 @@ To use `adb`, connect an Android device with USB debugging enabled or start an e
 ```
 
 Android CI runs unit tests, Android Lint, and a debug build. The development guide covers the project layout and on-device checks. [CI workflow](.github/workflows/android.yml) · [Development guide](docs/development.md)
+
+## License
+
+Linko is licensed under the MIT License. [License text](LICENSE)
